@@ -21,4 +21,4 @@ Meu nome é Edson José Przybysz 👨‍🏫
 <a href="mailto:edson.przybysz@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 
-![](https://komarev.com/ghpvc/?username=marcelopaludetto&style=flat-square)
+
